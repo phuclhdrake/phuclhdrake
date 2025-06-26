@@ -1,56 +1,38 @@
-# Hi, I'm <LE HONG PHUC>! 👋
+# 👋 Hi there, I'm <LE HONG PHUC>!
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🎓 M.Tech CS @ IIT Kharagpur | ✍️ Tech Writer | 💻 Full Stack Explorer  
+Driven by curiosity. Powered by code. Inspired by community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+!Phuc's GitHub Stats
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🎓 Pursuing Master’s in Computer Science at **IIT Kharagpur**
+- ✍️ Writing long-form, in-depth tech articles at [**theenthusiast.dev**— 20K+ views in 2 months!
+- 🧠 Member of the **Hackernoon Blogging Fellowship**
+- 📝 Contributor at **freeCodeCamp**
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 🛠️ Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?
+- ⚛️ React & Redux for dynamic UIs  
+- 🎨 Tailwind CSS for modern styling  
+- 🌐 React Router for seamless navigation  
+- 🐍 Django for robust backend development  
+- 🗃️ PostgreSQL for scalable data management  
 
-## 🌱 Currently Exploring
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## 🏆 Achievements
 
- ## 🏆 Achievements
+- ✅ Completed **Hacktoberfest 2023** — Open source contributions and community collaboration
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+---
 
+## ✍️ Featured Articles
 
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explainedode is poetry. Writing is architecture. I build with both.” 🚀
