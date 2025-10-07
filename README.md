@@ -20,13 +20,11 @@ Talk to me about:
 - Full-stack application design and implementation from **Figma** prototypes to complete deployment.
 - Desktop application development using **C# WinForms** and **Java**.
 - Mobile application development using React Native.
+- **2D Game development** using **Unity** engine
 - Industrial communication with **PLC**, handling **bit-level I/O** and server integration via **SECS/GEM** protocols.
 - Building reliable and scalable system architectures across **web** and **device communication** layers.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
