@@ -12,24 +12,16 @@
 🎧 Music lover | 🎬 Movie enthusiast | 🌍 Passionate traveler  
 Always curious, always learning — I enjoy exploring new ideas and experiences every day.
 ## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
+
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Database management using **SQL Server, SQLite, MySQL**, and **MongoDB**.
+- Web development using **ASP.NET Core (MVC, Web API)** and **ReactJS** with **Bootstrap** for responsive UI.
+- Full-stack application design and implementation from **Figma** prototypes to complete deployment.
+- Desktop application development using **C# WinForms** and **Java**.
+- Mobile application development using React Native.
+- Industrial communication with **PLC**, handling **bit-level I/O** and server integration via **SECS/GEM** protocols.
+- Building reliable and scalable system architectures across **web** and **device communication** layers.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
